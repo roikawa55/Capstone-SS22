@@ -1,0 +1,50 @@
+ContextVR: AR based Immersive learning App
+
+Goal: Help instructors teach users English through geo based learning modules.
+
+
+===========================================
+Completed features:
+	-Instructors can create pins on a map with a title, description and an optional image.
+	-Instructors can create modules, which are ordered sets of pins.
+	-Modules can be shared by email.
+	-All users login with Google Authenticator.
+
+Unimplemented features(Future goals from last capstone team):
+	-QR code based features, such as a QR code for sharing modules.
+	-Chatrooms for both teachers and/or students.
+
+
+===========================================
+Tech Stack:
+	Web hosting
+		-Github pages (react gh-pages)
+
+	Framework/Libraries
+		-React.ls
+		-Boostrap.js
+		-Leaflet.js
+		-Google Cloud Platform
+
+	Data Managment
+		-MongoDB Atlas
+		-MongoDB Stitch (Realm)
+
+	Styling
+		-Bootstrap
+		-Styled Components
+
+	Image Storage
+		-AWS S3
+===========================================
+Pros:
+
+
+Cons:
+
+
+
+
+Final presentation
+Capstone SS2020
+https://www.youtube.com/watch?v=P1wFhWiqwlI
