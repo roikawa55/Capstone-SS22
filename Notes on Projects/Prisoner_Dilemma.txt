@@ -1,0 +1,36 @@
+
+https://ncase.me/trust/
+
+
+* Create a simulation of a game theory dilemma that explores the ethical dimensions of the process. 
+    - Most simulations of the Prisoner's Dilemma look at different possible strategies 
+      but do not explore the influence of the opinion of one player over others. 
+    - Things will be different in a simulation that allows the prisoners to educate 
+      each other prior to the arrest, and, most importantly, a simulation that would 
+      take into consideration the value each of the prisoners puts on doing the right thing.
+
+
+* Author would like to explore other options: change from circle to grid. 
+  Create "neighborhoods," allow immigration, introduce education, or ethical system. 
+  The implication for trust across borders during a climate crisis or a pandemic are serious. 
+  Imagine if we could educate a million students on the globe with this simulation, 
+  or one of its future descendants…
+
+
+
+================================================================
+
+Questions:
+
+    - Need more info on how to tie in climate change with game theory / prisoner dilemma.
+
+
+================================================================
+
+Pros of this project:
+
+    - Experience with visuals/graphics on website.
+
+
+Cons of this project:
+
