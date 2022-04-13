@@ -1,0 +1,41 @@
+
+* Will be part of the Pronoia Health & Wellness Marketplace.
+
+
+* The Workbook Factory is a web3 dApp (or web2?) that allows authors to create interactive, online workbooks; 
+  share those workbooks with potential clients; 
+  and ultimately sell access to the workbook (similar to Steam's marketplace). 
+  This is a two sided marketplace for creators and consumers of workbooks.
+  (What exactly is a Workbook?) 
+
+
+* What makes it web3 is our aim to leverage Decentralized Identification (DID), 
+  possibly using IPFS (the interplanetary file system), 
+  and potentially turning workbooks into fungible or non-fungible tokens 
+  in order to create derivative works that remunerate and protect the creator of origin.
+
+
+* Will be using Ethereum or Algorand.
+
+
+================================================================
+
+Questions:
+
+    - Unclear as to whether we will we be working with web2 or web3.
+
+    - Unclear what exactly a "Workbook" is.
+
+    - What language does the author want this product to be written in?
+
+
+================================================================
+
+Pros of this project:
+
+    - Possible experience with web3 and NFT's.
+
+
+Cons of this project:
+
+    - Will likely be very difficult as no one has experience with web3.
